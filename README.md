@@ -1,4 +1,4 @@
-# light-probe
+# probe-bake
 
 ## 题面
 
